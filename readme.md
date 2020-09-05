@@ -1,4 +1,5 @@
 # Cancer-Cells-Detection-Tracking
+Detecting and Tracking cancer (HeLa) cells using Computer Vision techniques. The project also detects cell division and analyses cell motion such as speed, distance travelled etc. The project uses OpenCV3 for image processing.
 ![](phc.gif)
 
 # Requirements
